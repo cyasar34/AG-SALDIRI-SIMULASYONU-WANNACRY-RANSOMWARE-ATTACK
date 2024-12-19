@@ -45,7 +45,7 @@ Anahtar Kelimeler: Siber güvenlik, UnrealIRCd, WannaCry, EternalBlue, Nessus, C
 - **APA**: Yaşar, Ç., Erez, A., & Kazma, M. (2024).  Ağ Saldırı Simülasyonu:Wannacry Ransomware Attack. Uluslararası 9. Socrates Sağlık, Mühendislik Ve Uygulamalı Bilimler Kongresi (pp.313-320). İstanbul, Turkey                            
 - **MLA**: Yaşar, ÇİSEM, Erez, ATAKAN ve Kazma, MURAT.  "Ağ Saldırı Simülasyonu:Wannacry Ransomware Attack"  Uluslararası 9. Socrates Sağlık, Mühendislik Ve Uygulamalı Bilimler Kongresi , İstanbul, Turkey, pp.313-320, 2024               
 
-![Bildiri Metni](https://github.com/cyasar34/KEYLOGGER-SALDIRI-SENARYOSU-VE-GUVENLIK-ONLEMLERI/blob/main/keylogger_bildiri.png)
+![Bildiri Metni](https://github.com/cyasar34/AG-SALDIRI-SIMULASYONU-WANNACRY-RANSOMWARE-ATTACK/blob/main/wannacry_bildiri.PNG)
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
