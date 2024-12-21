@@ -1,7 +1,7 @@
 # AG-SALDIRI-SIMULASYONU-WANNACRY-RANSOMWARE-ATTACK
 AĞ SALDIRI SİMÜLASYONU: WANNACRY RANSOMWARE ATTACK
 
-## Authors
+## Yazarlar
 
 - [**Çisem YAŞAR**](https://scholar.google.com/citations?user=uehmKvoAAAAJ&hl=tr)  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojileri Bölümü, İstanbul / Türkiye
@@ -14,7 +14,7 @@ AĞ SALDIRI SİMÜLASYONU: WANNACRY RANSOMWARE ATTACK
   
 *For Correspondence: cyasar@gelisim.edu.tr*
 
-## Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilişim Güvenliği Teknolojisi Programı'nda 2023-2024 Bahar döneminde yürütülen BGT106 Kişisel Güvenlik Teknolojileri dersinde gerçekleştirilen proje çalışmalarının sonuçlarına dayanmaktadır. ORCID Kimlikleri: 0000-0002-0765-861X, 0009-0003-4266-1763, 0009-0009-8515-292X.
+## Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilişim Güvenliği Teknolojisi Programı'nda 2023-2024 Bahar döneminde yürütülen Kişisel Güvenlik Teknolojileri dersinde gerçekleştirilen proje çalışmalarının sonuçlarına dayanmaktadır. Araştırmacıların ORCID Kimlikleri: 0000-0002-0765-861X, 0009-0003-4266-1763, 0009-0009-8515-292X.
 
 ** Kongre Bilgileri
 
@@ -26,11 +26,11 @@ Kongre Tarihleri: 16-18 Ağustos 2024 İSTANBUL
 
 [Kongre İnternet Sayfası](https://ubsder.org.tr/uluslararasi-9-socrates-saglik-muhendislik-ve-uygulamali-bilimler-kongresi/)
 
-[Araştma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:LkGwnXOMwfcC)
+[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:LkGwnXOMwfcC)
 
-[Araştma ResearchGate Linki](https://www.researchgate.net/publication/384564602_AG_SALDIRI_SIMULASYONU_WANNACRY_RANSOMWARE_ATTACK_NETWORK_ATTACK_SIMULATION_WANNACRY_RANSOMWARE_ATTACK)
+[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/384564602_AG_SALDIRI_SIMULASYONU_WANNACRY_RANSOMWARE_ATTACK_NETWORK_ATTACK_SIMULATION_WANNACRY_RANSOMWARE_ATTACK)
 
-[Araştma Sosyal Medya Linki](https://www.instagram.com/p/C-Nk8NvtVOO/)
+[Araştırma Sosyal Medya Linki](https://www.instagram.com/p/C-Nk8NvtVOO/)
 
 Öz:
 
